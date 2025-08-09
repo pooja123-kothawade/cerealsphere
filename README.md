@@ -116,7 +116,7 @@ Farmers, traders, and agriculture researchers can use **Cerealsphere** to:
 
 ---
 
-## 📜 This project is owned by Pooja Mahendra Kothawade
+ 📜 This project is owned by Pooja Mahendra Kothawade
 
 ---
 
