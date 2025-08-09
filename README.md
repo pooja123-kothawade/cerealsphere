@@ -25,7 +25,7 @@ It aims to support **farmers, traders, and agriculture enthusiasts** by offering
 ---
 
 ## 📂 Project Structure
-```
+
 
 Cerealsphere/
 │
@@ -36,7 +36,7 @@ Cerealsphere/
 │
 └── README.md
 
-
+```
 ---
 
 📸 Screenshots
