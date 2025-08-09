@@ -42,7 +42,7 @@ Cerealsphere/
 📸 Screenshots
 
 ---
-#HOMEPAGE<br>
+#HOMEPAGE<br><br>
 <img width="1362" height="724" alt="ss1" src="https://github.com/user-attachments/assets/491d6643-8325-4cdd-b6d9-c5d30867332e" />
 ---
 #PRODUCTS<br>
