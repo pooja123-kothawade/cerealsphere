@@ -41,13 +41,14 @@ Cerealsphere/
 
 📸 Screenshots
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1ff85d13-a109-4e26-a551-e7f0aeceb69b" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9ab1bc25-7bdf-4c07-8ed8-23422a598384" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/56c3a765-9168-45bb-90b6-1c85a0228fc6" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/be3bbe86-6c2f-4294-962d-ad6a58ef5aa0" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9ce0c9fb-69e2-458d-bfb3-7231069217b7" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b6121b09-8986-496e-b3cc-de8c0b9df3c3" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2ba7a0f7-6a3c-427a-b713-d8fce97973c5" />
+<img width="1362" height="724" alt="ss1" src="https://github.com/user-attachments/assets/491d6643-8325-4cdd-b6d9-c5d30867332e" />
+<img width="1360" height="726" alt="ss2" src="https://github.com/user-attachments/assets/7a61fa02-3a79-4ae7-a97e-f21b013badf1" />
+<img width="1364" height="728" alt="ss3" src="https://github.com/user-attachments/assets/18e4636c-c655-4587-bd8b-d49c87679094" />
+<img width="1362" height="722" alt="ss4" src="https://github.com/user-attachments/assets/b68032a5-3d5f-4e01-83ff-ff1215a29183" />
+<img width="1362" height="722" alt="ss5" src="https://github.com/user-attachments/assets/0b814258-a486-4b12-8777-c61f449dc30e" />
+<img width="1362" height="726" alt="ss6" src="https://github.com/user-attachments/assets/84576f80-7afe-47a1-bb86-3516589ba1ec" />
+<img width="1362" height="730" alt="ss7" src="https://github.com/user-attachments/assets/5c84feab-b5da-4e8d-8d82-f6d0c5534922" />
+
 
 
 
