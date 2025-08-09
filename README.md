@@ -50,12 +50,16 @@ Cerealsphere/
 ---
 #CUSTOMER REVIEWS
 <img width="1364" height="728" alt="ss3" src="https://github.com/user-attachments/assets/18e4636c-c655-4587-bd8b-d49c87679094" />
+---
 #CART
 <img width="1362" height="722" alt="ss4" src="https://github.com/user-attachments/assets/b68032a5-3d5f-4e01-83ff-ff1215a29183" />
+---
 #CHECHOUT
 <img width="1362" height="722" alt="ss5" src="https://github.com/user-attachments/assets/0b814258-a486-4b12-8777-c61f449dc30e" />
+---
 #PLACE ORDER
 <img width="1362" height="726" alt="ss6" src="https://github.com/user-attachments/assets/84576f80-7afe-47a1-bb86-3516589ba1ec" />
+---
 #THANK YOU
 <img width="1362" height="730" alt="ss7" src="https://github.com/user-attachments/assets/5c84feab-b5da-4e8d-8d82-f6d0c5534922" />
 
