@@ -44,8 +44,10 @@ Cerealsphere/
 ---
 #HOMEPAGE
 <img width="1362" height="724" alt="ss1" src="https://github.com/user-attachments/assets/491d6643-8325-4cdd-b6d9-c5d30867332e" />
+---
 #PRODUCTS
 <img width="1360" height="726" alt="ss2" src="https://github.com/user-attachments/assets/7a61fa02-3a79-4ae7-a97e-f21b013badf1" />
+---
 #CUSTOMER REVIEWS
 <img width="1364" height="728" alt="ss3" src="https://github.com/user-attachments/assets/18e4636c-c655-4587-bd8b-d49c87679094" />
 #CART
