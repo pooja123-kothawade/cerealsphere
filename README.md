@@ -19,7 +19,7 @@ It aims to support **farmers, traders, and agriculture enthusiasts** by offering
 ## 🛠 Tech Stack
 - **Backend:** Django (Python)
 - **Frontend:** HTML, CSS, JavaScript
-- **Database:** SQLite / PostgreSQL (configurable)
+- **Database:** SQLite3 
 - **Environment:** Python Virtual Environment (`proenv`)
 
 ---
